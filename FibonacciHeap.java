@@ -1,10 +1,7 @@
 
 /**
  * FibonacciHeap
- * 
- * Students:
- * kapustin - Ariel Klein i.d 308548692
- * danielab1 - Daniela Blanc Zusmanovich i.d 307969352
+ *
  *
  * An implementation of fibonacci heap over non-negative integers.
  * 
